@@ -1,0 +1,11 @@
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\bin\Debug\Ejemplos_clase2.exe.config
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\bin\Debug\Ejemplos_clase2.exe
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\bin\Debug\Ejemplos_clase2.pdb
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\obj\Debug\Ejemplos_clase2.csprojResolveAssemblyReference.cache
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\obj\Debug\Ejemplos_clase2.Form1.resources
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\obj\Debug\Ejemplos_clase2.Properties.Resources.resources
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\obj\Debug\Ejemplos_clase2.csproj.GenerateResource.Cache
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\obj\Debug\Ejemplos_clase2.csproj.CoreCompileInputs.cache
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\obj\Debug\Ejemplos_clase2.exe
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\obj\Debug\Ejemplos_clase2.pdb
+C:\Users\k2m\Documents\Visual Studio 2017\Projects\Ejemplos_clase2\Ejemplos_clase2\obj\Debug\Ejemplos_clase2.Form2.resources
